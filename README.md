@@ -20,6 +20,6 @@ Wangyang Wu :    1. Home - Enter  2. Movie List 6. UI
 
 Tanmeng Wang :   3. Movie Details 6. UI
 
-Shiyu Chen :     4. Location selection 6. UI
+Tianyang Zhang :     4. Location selection 6. UI
 
-Tianyang Zhang : 5. Ticketing 6. UI
+Shiyu Chen : 5. Ticketing 6. UI
