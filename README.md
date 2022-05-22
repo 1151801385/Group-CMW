@@ -12,6 +12,6 @@ Project part:
 1. Home - Enter -- Wangyang Wu
 2. Movie List -- Wangyang Wu
 3. Movie Details -- Tanmeng Wang
-4. Location selection -- Wangyang Wu, Tianyang Zhang
+4. Seat selection -- Wangyang Wu, Tianyang Zhang
 5. Ticketing -- Wangyang Wu, Shiyu Chen
 6. UI -- Tanmeng Wang, Wangyang Wu, Tianyang Zhang, Shiyu Chen
