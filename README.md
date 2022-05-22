@@ -9,17 +9,9 @@ We distribute according to the workload of each part
 
 Project name: Cinema ticket booking
 Project part: 
-1. Home - Enter
-2. Movie List
-3. Movie Details
-4. Location selection
-5. Ticketing
-6. UI
-
-Wangyang Wu :    1. Home - Enter  2. Movie List 6. UI
-
-Tanmeng Wang :   3. Movie Details 6. UI
-
-Tianyang Zhang :     4. Location selection 6. UI
-
-Shiyu Chen : 5. Ticketing 6. UI
+1. Home - Enter -- Wangyang Wu
+2. Movie List -- Wangyang Wu
+3. Movie Details -- Tanmeng Wang
+4. Location selection -- Wangyang Wu, Tianyang Zhang
+5. Ticketing -- Wangyang Wu, Shiyu Chen
+6. UI -- Tanmeng Wang, Wangyang Wu, Tianyang Zhang, Shiyu Chen
